@@ -3,7 +3,7 @@
 A business intelligence agent for Skylark Drones that answers founder-level questions about the sales pipeline and project delivery, using live data from two monday.com boards.
 
 **Live demo:** `https://skylark-bi-agent-f2gd.onrender.com`
-**Decision Log:** `DecisionLog.docx`
+
 
 ---
 
